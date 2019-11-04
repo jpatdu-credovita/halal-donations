@@ -6,6 +6,12 @@
   "favicon": "favicon-32x32.png",
   "navigation": [
     {
+      "text": "Updates",
+      "link": "/works",
+      "position": "left",
+      "external": false
+    },
+    {
       "text": "Tiers",
       "link": "/",
       "position": "left",
